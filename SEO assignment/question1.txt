@@ -1,0 +1,20 @@
+SEO stands for search engine optimization. It is a set of practices and stratergies used to increase the 
+visibility and ranking of a website or a webpage in search engine result pages.The primary focus of 
+SEO is to increase traffic on a website, making it more relevant for search engines like google, yahoo,
+bing.
+
+Listed below are the 3 purposes/importance of SEO for webpages:
+
+1. VISIBILITY AND RANKING: The fundamental purpose of SEO is to ensure that a website or specific web pages
+                           rank as high as possible in search engine results when users enter relevant 
+                           quiries. Since, higher rankings lead to increased visibility of the website and 
+                           that drag more organic traffic to the site.
+
+2. USER EXPERIENCE: SEO involves optimizing the structure and content of a website to make it more 
+                    user friendly. A better user experience not only satisfies the visitors but also,
+                    give signals to search engines that the site is valuable and relevant.
+
+3. COMPETITIVE ADVANTAGE: SEO can provide significant competitive advantage by ensuring that your website
+                          outranks other competitors in search results, attracting more potential customers
+                          and increasing the brand visibility.
+

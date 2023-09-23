@@ -1,0 +1,11 @@
+FEVICON: A favicon is short form of "favorite icon" is a small icon or image that represents a website or 
+         web page. Favicons are typically displayed in the browser's address bar, next to page's title in
+         browser tabs, and in bookmarks.They serve as a visual identifier for a website and help users
+         quickly recognize and access their favorite sites.
+
+EXAMPLE AND CODE: let's suppose you create a bun image as your webpage favicon.For that in head tag under 
+                  your html document use link element and give refrence of your favicon image as written below
+
+                 <link rel="icon" href="bunimage.png" type="image/x-icon"> and you can successfully create your favicon for
+                 your webpage.
+                   

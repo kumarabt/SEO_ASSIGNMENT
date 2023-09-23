@@ -1,0 +1,21 @@
+Below given are the 5 benifits of using Meta Tags:
+
+1. IMPROVED SEO(SEARCH ENGINE OPTIMIZATION):
+  
+   a. TITLE TAG(meta title): This tag is one of the most important for SEO. It defines the title of a web
+   page and often appears as the clickable link in the search engine results.
+
+   b. META DESCRIPTION TAG: This tag provides a brief summary of the page's content. A well-written meta 
+   description can push users to click on your link on the search results, that helps to increase organic 
+   traffic of your website.
+
+2. BETTER USER EXPERIENCE:
+   
+   a. VIEWPORT META TAG: Helps make web pages mobile-friendly by specifying how the page should be displayed
+   on diffrent devices, improving the overall user experience.
+
+   b. CHARSET META TAG: It helps us to inculcate correct character encoding in our webpage, and enable
+   us to use diffrent special symbols and emoji's in our webpage. Eg: UTF-8, UTF-18 character encodings.
+
+3. FEVICON META TAG: It specifies the icon that appears in the browser's tab. It is not directly linked
+                     to the SEO but it can improve branding and recognition of webpage. 
